@@ -1,11 +1,6 @@
 # Tarkov, Do I Need It?
 Tarkov, Do I Need It? Is a tool to help remind you of any items that you need to find in a raid.
 
-## Current Version
-
-	Current Build: 2023/07/27/18.6
-	EFT v0.13.1.2.24964
-
 ## How To Download
 
     1. Download all project files as zip
