@@ -3,7 +3,7 @@ Tarkov, Do I Need It? Is a tool to help remind you of any items that you need to
 
 ## Current Version
 
-	Current Build: 2023/07/28/20
+	Current Build: 2023/07/29/23
 	EFT v0.13.1.2.24964
 
 ## How To Download
