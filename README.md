@@ -3,8 +3,12 @@ Tarkov, Do I Need It? Is a tool to help remind you of any items that you need to
 
 ## Current Version
 
-	Current Build: 2023/07/29/23.2
+	Current Build: 2023/07/30/23
 	EFT v0.13.1.2.24964
+	
+## Keeping SaveVersions
+
+	If you're updating from an older version of the project and have a save file (savePreferences.txt), make sure to keep it within the main directory of the project.
 
 ## How To Download
 
